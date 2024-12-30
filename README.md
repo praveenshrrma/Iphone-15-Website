@@ -6,12 +6,7 @@
 
 *(If you want to open it in a new tab right click the button and click "Open link in new tab")*<div align="center">
 
-  <br />
-    <a>
-      <img src="![68747470733a2f2f692e706f7374696d672e63632f3337506e5177386e2f496d6167652d66726f6d2e706e67](https://github.com/user-attachments/assets/e50dc045-e21f-445f-b39d-3734e5e4b03b)
-" alt="Project Banner">
-    </a>
-  <br />
+  ![68747470733a2f2f692e706f7374696d672e63632f3337506e5177386e2f496d6167652d66726f6d2e706e67](https://github.com/user-attachments/assets/6f0cb704-e5f8-49f3-b091-67684c4069b6)
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
