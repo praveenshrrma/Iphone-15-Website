@@ -1,4 +1,8 @@
-<div align="center">
+## 🌍 Live Hosted App
+
+[![Horizon Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://iphone15demo.netlify.app)  
+*(If you want to open it in a new tab right click the button and click "Open link in new tab")*<div align="center">
+
   <br />
     <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
       <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
