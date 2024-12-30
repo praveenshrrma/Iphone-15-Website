@@ -6,7 +6,7 @@
 
 *(If you want to open it in a new tab right click the button and click "Open link in new tab")*<div align="center">
 
-<img src="https://github.com/user-attachments/assets/6f0cb704-e5f8-49f3-b091-67684c4069b6" width="400" alt="Image">
+<img src="https://github.com/user-attachments/assets/6f0cb704-e5f8-49f3-b091-67684c4069b6" width="800" alt="Image">
 
 
   <div>
