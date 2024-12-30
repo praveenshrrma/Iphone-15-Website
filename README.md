@@ -1,6 +1,6 @@
 ## 🌍 Live Hosted App
 
-<a href="https://iphone15demo.netlify.app">
+<a href="https://iphone15demo.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge" width="200" alt="Horizon Live Demo">
 </a>
 
