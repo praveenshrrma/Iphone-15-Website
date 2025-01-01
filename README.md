@@ -3,7 +3,6 @@
 <a href="https://iphone15demo.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge" width="200" alt="Horizon Live Demo">
 </a>
-
 *(If you want to open it in a new tab right click the button and click "Open link in new tab")*<div align="center">
 
 ![ezgif-3-37800e4b59](https://github.com/user-attachments/assets/d3e9cb1e-82de-473b-a766-1b7fad774d9c)
@@ -22,6 +21,13 @@
 
 </div>
 
+## 🌍 Live Hosted App
+
+<a href="https://iphone15demo.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge" width="200" alt="Horizon Live Demo">
+</a>
+*(If you want to open it in a new tab right click the button and click "Open link in new tab")*<div align="center">
+  
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
