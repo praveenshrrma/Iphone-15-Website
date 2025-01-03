@@ -20,6 +20,13 @@
   </div>
 
   <h3 align="center">Iphone 15 Website</h3>
+## 🌍 Live Hosted App
+
+<a href="https://iphone15demo.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge" width="200" alt="Horizon Live Demo">
+</a>
+
+*(If you want to open it in a new tab right click the button and click "Open link in new tab")*<div align="center">
 
 </div>
   
