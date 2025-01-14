@@ -6,13 +6,9 @@
 
 *(If you want to open it in a new tab right click the button and click "Open link in new tab")*<div align="center">
 
-![1](https://github.com/user-attachments/assets/49bf8f7e-372d-4e0a-ba27-6131e8461af6)
-![ezgif-3-37800e4b59](https://github.com/user-attachments/assets/d3e9cb1e-82de-473b-a766-1b7fad774d9c)
+<img src="images/1.gif" alt="GIF 1" width="100%"/>
 
-<img src="https://github.com/user-attachments/assets/6f0cb704-e5f8-49f3-b091-67684c4069b6" width="800" alt="Image">
-
-
-  <div>
+ <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
